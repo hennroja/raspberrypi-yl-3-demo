@@ -2,3 +2,6 @@
 Demo of the 8x7segment LED display for Raspberry Pi written in Python.
 
 [YL-3](http://www.dx.com/p/diy8-x-seven-segment-displays-module-for-arduino-595-driver-250813?Utm_rid=78799235&Utm_source=affiliate) or 3461BS
+
+
+[Read more](http://robinhenniges.com/en/raspberry-pi-with-yl-3-8x7-segment-led-display)
